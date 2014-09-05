@@ -7,8 +7,22 @@ We have been using this in manual builds and other automated processes as a mean
 
 #Usage
 
-? - shows the list of supported commands and how to use them
+Below are the currently supported commands.
 
-getrooms - gets a list of rooms
+## Help
 
-send - sends a message
+Shows the list of supported commands and how to use them
+
+    ?
+
+## Get rooms
+
+Gets a list of rooms
+
+    getrooms
+
+## Send
+
+Sends a message
+
+    send from:CmBot notify:true roomid:123456 message:Hello world!
