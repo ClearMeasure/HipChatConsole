@@ -1,0 +1,6 @@
+*.suo
+
+*.user
+/*/bin/
+/src/HipChatConsole/bin/Debug
+/src/HipChatConsole/obj/Debug
